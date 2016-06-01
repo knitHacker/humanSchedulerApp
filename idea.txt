@@ -1,0 +1,37 @@
+I really want to make this app because I really want this app in my life.
+
+The keys to the app are:
+- easy to enter new todo items
+- app relatively accurately prioritized your events
+- it makes it really easy to update activities
+
+Entering a new item to your todo list
+- item to do (obviously)
+- importance (not very, moderate, important, very important)
+- due date (can just enter a year, year and month,... so and so forth until time of day)
+- approximate time it takes (not sure, options for detail down to hours or just a little / a lot?)
+- if missed remove?
+- recurring (more options if this is case)
+    - how often recurs
+    - increase priority if missed one/more? (put chores in, not bad if missed once, bad if missed 10 times)
+- time / place specific (only displays as todo if that time or place?)
+   - the time or place
+
+
+update list
+- complete an item (obviously, move to accomplishments?)
+- change any attributes (not a common action)
+- mark something worked on (lowers the time to take somehow)
+
+
+The app might have a widget that displays the top like 5 priority items then open app for full list.
+
+This is the skeleton. I think there is room to make it less scary to use / update and therefore people like us would actually use it.
+
+Will you be my app buddy? And can I invite someone else?
+
+
+notifications asking you if you need to update any items? 
+templates for certain items (like a chore profile, or work project profile)
+
+due date notifications, need to work on these things notifications
